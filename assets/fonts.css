@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'Compagnon';
+    src: url('Compagnon-Italic.eot');
+    src: url('Compagnon-Italic.eot?#iefix') format('embedded-opentype'),
+        url('Compagnon-Italic.woff2') format('woff2'),
+        url('Compagnon-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Compagnon Roman';
+    src: url('Compagnon-Roman.eot');
+    src: url('Compagnon-Roman.eot?#iefix') format('embedded-opentype'),
+        url('Compagnon-Roman.woff2') format('woff2'),
+        url('Compagnon-Roman.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Compagnon';
+    src: url('Compagnon-Medium.eot');
+    src: url('Compagnon-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Compagnon-Medium.woff2') format('woff2'),
+        url('Compagnon-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Compagnon';
+    src: url('Compagnon-Bold.eot');
+    src: url('Compagnon-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Compagnon-Bold.woff2') format('woff2'),
+        url('Compagnon-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Compagnon';
+    src: url('Compagnon-Light.eot');
+    src: url('Compagnon-Light.eot?#iefix') format('embedded-opentype'),
+        url('Compagnon-Light.woff2') format('woff2'),
+        url('Compagnon-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
