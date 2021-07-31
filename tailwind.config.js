@@ -27,6 +27,7 @@ module.exports = {
       purple: '#6262FF',
       red: '#ff0000',
       yellow: '#E4FF00',
+      blue: '#0000ff',
     },
     fontSize: {
       '10': '10px',
@@ -52,6 +53,12 @@ module.exports = {
         '1200': '1200px',
         '1400': '1400px',
         '1800': '1800px',
+      },
+      boxShadow: {
+        'cta': '6px 6px 0 0 #E4FF00',
+      },
+      backgroundColor: {
+        'hazy': 'hsla(0,0%,100%,.24)',
       },
     }
   },
